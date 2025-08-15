@@ -24,5 +24,12 @@
   "homepage": "https://github.com/johndoe/modern-design-color-palette-generator#readme",
   "bugs": {
     "url": "https://github.com/johndoe/modern-design-color-palette-generator/issues"
-  }
+  },
+  "keywords": [
+    "color",
+    "palette",
+    "design",
+    "generator",
+    "web"
+  ]
 }

@@ -20,5 +20,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johndoe/modern-design-color-palette-generator.git"
+  },
+  "homepage": "https://github.com/johndoe/modern-design-color-palette-generator#readme",
+  "bugs": {
+    "url": "https://github.com/johndoe/modern-design-color-palette-generator/issues"
   }
 }
